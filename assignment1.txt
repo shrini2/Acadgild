@@ -1,0 +1,6 @@
+1. Say True or False for the below statements:
+
+• Prescriptive Analytics used to predict the future outcomes? 
+False
+• Base R packages installed automatically?
+True
